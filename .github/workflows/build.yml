@@ -13,6 +13,7 @@ on:
       - main
     paths-ignore:
       - '*.md'
+permissions: write-all
 
 jobs:
   build:
